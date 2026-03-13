@@ -1,0 +1,27 @@
+# === CoppeliaSim ===
+*.tt~
+*.sim$
+
+# === MATLAB ===
+*.asv
+*.mex*
+*.mlappinstall
+
+# === Remote API Binary (copy from CoppeliaSim installation) ===
+remoteApi.dll
+remoteApi.so
+remoteApi.dylib
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === Temporary ===
+*.tmp
+*.bak
+*~
