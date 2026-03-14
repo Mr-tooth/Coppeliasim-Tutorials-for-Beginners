@@ -57,7 +57,7 @@ By the end, students build a functional **differential drive car** from scratch 
 
 | Tool | Version | Download |
 |------|---------|----------|
-| **CoppeliaSim Edu** | v4.2.0 (recommended) | [Official](https://www.coppeliarobotics.com/downloads) · [Baidu Cloud](https://pan.baidu.com/s/1eUEH9noZIHTzzhlWh9siZA) (code: `malu`) |
+| **CoppeliaSim Edu** | v4.2.0 (recommended) | [Official](https://www.coppeliarobotics.com/downloads) · [Baidu Cloud](https://pan.baidu.com/s/1K9zN9nRVrnxA-YU1M1q3lw) (code: `b5g2`) |
 | **MATLAB** | 2021b or later | [MathWorks](https://www.mathworks.com/) |
 
 > ⚠️ Version 4.2.0 is recommended. Newer versions may have API differences that affect compatibility.

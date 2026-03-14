@@ -57,7 +57,7 @@
 
 | 工具 | 版本 | 下载地址 |
 |------|------|---------|
-| **CoppeliaSim Edu** | v4.2.0（推荐） | [官网下载](https://www.coppeliarobotics.com/downloads) · [百度网盘](https://pan.baidu.com/s/1eUEH9noZIHTzzhlWh9siZA)（提取码：`malu`） |
+| **CoppeliaSim Edu** | v4.2.0（推荐） | [官网下载](https://www.coppeliarobotics.com/downloads) · [百度网盘](https://pan.baidu.com/s/1K9zN9nRVrnxA-YU1M1q3lw)（提取码：`b5g2`） |
 | **MATLAB** | 2021b 及以上 | [MathWorks](https://www.mathworks.com/) |
 
 > ⚠️ 建议使用 v4.2.0 版本。更高版本可能存在 API 差异导致兼容性问题。
