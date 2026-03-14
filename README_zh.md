@@ -153,6 +153,8 @@
 | `simxSynchronous(clientID, true)` | 启用同步模式 |
 | `simxSynchronousTrigger(clientID)` | 推进一步仿真 |
 
+📖 **完整文档：** [MATLAB Remote API 函数参考](https://manual.coppeliarobotics.com/en/remoteApiFunctionsMatlab.htm)
+
 ---
 
 ## 许可证

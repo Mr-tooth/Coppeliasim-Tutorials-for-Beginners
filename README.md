@@ -153,6 +153,8 @@ By the end, students build a functional **differential drive car** from scratch 
 | `simxSynchronous(clientID, true)` | Enable step-by-step mode |
 | `simxSynchronousTrigger(clientID)` | Advance one simulation step |
 
+📖 **Full API Docs:** [MATLAB Remote API Functions](https://manual.coppeliarobotics.com/en/remoteApiFunctionsMatlab.htm)
+
 ---
 
 ## License
