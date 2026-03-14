@@ -9,19 +9,22 @@ This script demonstrates the most fundamental concept in CoppeliaSim scripting: 
 ## What You'll Learn / 学习内容
 
 - How to get object handles (pointers to scene objects)
+  获取对象句柄（场景对象的"指针"）
 - How to set joint target velocities in a simulation loop
+  在仿真循环中设定关节目标速度
 - The `sysCall_init` / `sysCall_actuation` lifecycle pattern
-
-- 获取对象句柄（场景对象的"指针"）
-- 在仿真循环中设定关节目标速度
-- `sysCall_init` / `sysCall_actuation` 生命周期模式
+  `sysCall_init` / `sysCall_actuation` 生命周期模式
 
 ## How to Use / 使用方法
 
-1. Open the corresponding model: `models/1_car_model_pure/Car_For_P.ttt`
+1. Open the model: `models/1_car_model_pure/Car_For_P.ttt`
+   打开模型：`models/1_car_model_pure/Car_For_P.ttt`
 2. Open the script attached to the car model
+   打开小车模型上挂载的脚本
 3. Paste or type the code from `control_one.lua`
+   将 `control_one.lua` 中的代码粘贴或输入到脚本中
 4. Start the simulation — the car will drive in a curve
+   启动仿真——小车将沿曲线行驶
 
 ## Related Model / 关联模型
 
